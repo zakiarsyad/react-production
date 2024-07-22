@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Firebase automatic deployment thru Github
+          Firebase automatic deployment after PR is merged
         </p>
         <a
           className="App-link"
