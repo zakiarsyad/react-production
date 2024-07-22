@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Netlify CLI Deployment
+          Local Deployment
         </p>
         <a
           className="App-link"
